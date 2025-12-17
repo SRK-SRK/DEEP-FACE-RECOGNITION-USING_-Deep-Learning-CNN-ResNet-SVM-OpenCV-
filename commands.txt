@@ -1,0 +1,12 @@
+RUN ALL THESE COMMANDS STEP BY STEM TO EXECUTE SUCCESSFULLY
+
+
+
+STEP - 1 - python train_embeddings.py --data_dir data/train --out_path models/embeddings_train.npz
+
+STEP - 2 - python train_classifier.py --embeddings models/embeddings_train.npz --out_dir models
+ 
+STEP - 3 -python evaluate.py --embeddings models/embeddings_train.npz --out_plot figures/roc_curve.png
+
+STEP - 4 - python inference_app.py --model_dir models
+

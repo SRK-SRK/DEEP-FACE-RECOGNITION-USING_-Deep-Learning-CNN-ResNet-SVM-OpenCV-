@@ -1,0 +1,1 @@
+python evaluate.py --embeddings models/embeddings_train.npz --verify_pairs pairs.csv
