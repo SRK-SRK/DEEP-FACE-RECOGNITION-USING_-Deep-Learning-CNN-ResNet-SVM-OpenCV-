@@ -65,3 +65,13 @@ What's next (suggested)
 - Add enrollment UI for adding new identities with multi-image templates.
 - Move model serving to a proper service (FastAPI + gunicorn) and add caching for embeddings.
 - Add logging, drift monitoring, and scheduled re-enrollment for users with large appearance changes.
+
+
+<img width="2239" height="1307" alt="Screenshot 2025-12-17 132211" src="https://github.com/user-attachments/assets/9af80e80-5f06-4997-aa47-18bc25b2cf11" />
+
+<img width="2239" height="1399" alt="Screenshot 2025-12-17 132256" src="https://github.com/user-attachments/assets/8dea4aeb-defe-4667-a54b-b5449ff2f807" />
+
+
+
+https://github.com/user-attachments/assets/7d618fac-69ad-4a94-86a5-3ca471c7d066
+
